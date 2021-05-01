@@ -1,6 +1,5 @@
 package died.tp.guia05;
 
-//import died.tp.guia05.Oficio;
 
 public abstract class Servicio {
 

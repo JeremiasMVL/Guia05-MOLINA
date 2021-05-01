@@ -15,6 +15,7 @@ public class Usuario {
 		this.listaContratados = new ArrayList<Contratable>();
 	}
 	
+	
 	public String getNombre() {
 		return this.nombre;
 	}
